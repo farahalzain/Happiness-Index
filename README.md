@@ -101,6 +101,3 @@ The analysis clearly shows that **economic prosperity, strong social networks, a
 While ethical/cultural factors like generosity and corruption also play a role, their influence is less direct and varies significantly by region.
 
 ---
-
-تحب أجهزلك كمان نسخة مختصرة من الكود كـ `src/eda.py` بحيث يكون reusable (functions لتنضيف الداتا، plotting) ولا تخليها Notebook فقط؟
-```
