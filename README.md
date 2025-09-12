@@ -1,24 +1,4 @@
-# Happiness-Index
-
-## Structure
-````
-happiness-index-eda/
-│── data/
-│   └── world-happiness-report-2021.csv   # dataset (from Kaggle)
-│── notebooks/
-│   └── Happiness_Index.ipynb             # original notebook
-````
-
----
-
-## requirements
-
-numpy
-pandas
-matplotlib
-seaborn
-
----
+# Happiness-Index-EDA
 
 ## Project Structure
 ```
