@@ -9,7 +9,12 @@ happiness-index-eda/
 ````
 
 ---
-
+## Dataset
+* Source: Kaggle — World Happiness Report 2021
+  [Kaggle — World Happiness Report 2021](https://www.kaggle.com/datasets/ajaypalsinghlo/world-happiness-report-2021)
+* Size: 149 rows × 20 columns
+* Key features: satisfaction, travel class, customer type, services ratings, flight delays, demographics, flight distance.
+---
 ## Dataset Description
 The dataset provides scores and rankings of happiness based on survey responses and socioeconomic indicators.
 
