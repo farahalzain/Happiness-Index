@@ -4,8 +4,8 @@
 ```
 
 happiness-index-eda/
-│── data/                 # Dataset (download and place here)
-│── notebooks/            # Jupyter/Colab notebook with full analysis
+│── data/                
+│── notebook/            
 ````
 
 ---
